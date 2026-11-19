@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1795058565 source:d:\c++codes\labtoken\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
